@@ -1,4 +1,4 @@
-package com.ebay.ag;
+package com.ebay.ag.rpc;
 
 /**
  * Hello world!

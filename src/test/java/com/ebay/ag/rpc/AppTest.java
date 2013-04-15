@@ -1,4 +1,4 @@
-package com.ebay.ag;
+package com.ebay.ag.rpc;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
